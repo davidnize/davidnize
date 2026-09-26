@@ -17,5 +17,5 @@ I'm striving to become a full-stack developer.
 - **X:** https://x.com/_david_nize
 - **Email:** nizeyimanadavid61@gmail.com
 - **LinkedIn:** https://linkedin.com/in/david-nizeyimana
-- **Instagram** https://instagram.com/david_nize/
+
 
